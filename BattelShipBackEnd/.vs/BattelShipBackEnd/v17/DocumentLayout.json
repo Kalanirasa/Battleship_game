@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Battleship_game\\BattelShipBackEnd\\",
+  "WorkspaceRootPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battelshipbackend\\battleshiptest\\battleshipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battleshiptest\\battleshipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|solutionrelative:battleshiptest\\battleshipservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battelshipbackend\\battleshiptest\\battleshipintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battleshiptest\\battleshipintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|solutionrelative:battleshiptest\\battleshipintegrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battelshipbackend\\battleshiptest\\battleshipcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battleshiptest\\battleshipcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|solutionrelative:battleshiptest\\battleshipcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA6A0C7-304D-4284-B149-AD9B885C6E83}|Application\\Application.csproj|e:\\battleship_game\\battelshipbackend\\application\\services\\battleshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFA6A0C7-304D-4284-B149-AD9B885C6E83}|Application\\Application.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\application\\services\\battleshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA6A0C7-304D-4284-B149-AD9B885C6E83}|Application\\Application.csproj|solutionrelative:application\\services\\battleshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|e:\\battleship_game\\battelshipbackend\\battelshipbackend\\controllers\\battleshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battelshipbackend\\controllers\\battleshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|solutionrelative:battelshipbackend\\controllers\\battleshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|e:\\battleship_game\\battelshipbackend\\battelshipbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battelshipbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|solutionrelative:battelshipbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFA6A0C7-304D-4284-B149-AD9B885C6E83}|Application\\Application.csproj|e:\\battleship_game\\battelshipbackend\\application\\interfaces\\ibattleshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFA6A0C7-304D-4284-B149-AD9B885C6E83}|Application\\Application.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\application\\interfaces\\ibattleshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFA6A0C7-304D-4284-B149-AD9B885C6E83}|Application\\Application.csproj|solutionrelative:application\\interfaces\\ibattleshipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A03D99B-C83B-49D2-85F1-B9851B2AF700}|Domain\\Domain.csproj|e:\\battleship_game\\battelshipbackend\\domain\\entities\\moverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A03D99B-C83B-49D2-85F1-B9851B2AF700}|Domain\\Domain.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\domain\\entities\\moverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A03D99B-C83B-49D2-85F1-B9851B2AF700}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\moverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|e:\\battleship_game\\battelshipbackend\\battelshipbackend\\battelshipbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battelshipbackend\\battelshipbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CDAD8CD4-FEB5-45A1-93EF-1B33A7FB0DC9}|BattelShipBackEnd\\BattelShipBackEnd.csproj|solutionrelative:battelshipbackend\\battelshipbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battelshipbackend\\battleshiptest\\battleshiptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|e:\\battleship_game\\battleship_game\\battelshipbackend\\battleshiptest\\battleshiptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{477E5562-7A66-4A3A-B805-41BCF9C3F993}|BattleshipTest\\BattleshipTest.csproj|solutionrelative:battleshiptest\\battleshiptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BattleshipServiceTests.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipServiceTests.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipServiceTests.cs",
               "RelativeDocumentMoniker": "BattleshipTest\\BattleshipServiceTests.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipServiceTests.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipServiceTests.cs",
               "RelativeToolTip": "BattleshipTest\\BattleshipServiceTests.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAuwFgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,118 +97,109 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BattleshipIntegrationTests.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipIntegrationTests.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipIntegrationTests.cs",
               "RelativeDocumentMoniker": "BattleshipTest\\BattleshipIntegrationTests.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipIntegrationTests.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipIntegrationTests.cs",
               "RelativeToolTip": "BattleshipTest\\BattleshipIntegrationTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:16:54.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:16:54.914Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BattleshipControllerTests.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipControllerTests.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipControllerTests.cs",
               "RelativeDocumentMoniker": "BattleshipTest\\BattleshipControllerTests.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipControllerTests.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipControllerTests.cs",
               "RelativeToolTip": "BattleshipTest\\BattleshipControllerTests.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:16:46.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:16:46.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IBattleshipService.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Interfaces\\IBattleshipService.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Interfaces\\IBattleshipService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\IBattleshipService.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Interfaces\\IBattleshipService.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Interfaces\\IBattleshipService.cs",
               "RelativeToolTip": "Application\\Interfaces\\IBattleshipService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:10:59.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:10:59.825Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BattleshipService.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Services\\BattleshipService.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Services\\BattleshipService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\BattleshipService.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Services\\BattleshipService.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Services\\BattleshipService.cs",
               "RelativeToolTip": "Application\\Services\\BattleshipService.cs",
               "ViewState": "AgIAAHUAAAAAAAAAAAAAwKMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:09:32.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:09:32.879Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MoveRequest.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\Domain\\Entities\\MoveRequest.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Domain\\Entities\\MoveRequest.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\MoveRequest.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\Domain\\Entities\\MoveRequest.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Domain\\Entities\\MoveRequest.cs",
               "RelativeToolTip": "Domain\\Entities\\MoveRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:08:57.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:08:57.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BattleshipController.cs",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\Controllers\\BattleshipController.cs",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\Controllers\\BattleshipController.cs",
               "RelativeDocumentMoniker": "BattelShipBackEnd\\Controllers\\BattleshipController.cs",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\Controllers\\BattleshipController.cs",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\Controllers\\BattleshipController.cs",
               "RelativeToolTip": "BattelShipBackEnd\\Controllers\\BattleshipController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T09:02:01.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:02:01.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\appsettings.json",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\appsettings.json",
               "RelativeDocumentMoniker": "BattelShipBackEnd\\appsettings.json",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\appsettings.json",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\appsettings.json",
               "RelativeToolTip": "BattelShipBackEnd\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-15T09:01:59.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T09:01:59.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "BattleshipTest",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
+              "Title": "BattleshipTest.csproj",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
               "RelativeDocumentMoniker": "BattleshipTest\\BattleshipTest.csproj",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
               "RelativeToolTip": "BattleshipTest\\BattleshipTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-15T08:47:35.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T08:47:35.363Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BattelShipBackEnd",
-              "DocumentMoniker": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj",
+              "Title": "BattelShipBackEnd.csproj",
+              "DocumentMoniker": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj",
               "RelativeDocumentMoniker": "BattelShipBackEnd\\BattelShipBackEnd.csproj",
-              "ToolTip": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj",
+              "ToolTip": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj",
               "RelativeToolTip": "BattelShipBackEnd\\BattelShipBackEnd.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-15T08:47:25.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-15T08:47:25.117Z"
             }
           ]
         }

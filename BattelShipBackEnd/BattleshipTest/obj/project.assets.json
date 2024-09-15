@@ -6193,11 +6193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
+      "projectUniqueName": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
       "projectName": "BattleshipTest",
-      "projectPath": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
+      "projectPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\obj\\",
+      "outputPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6215,14 +6215,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj": {
-              "projectPath": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj"
+            "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj": {
+              "projectPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj"
             },
-            "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj": {
-              "projectPath": "E:\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj"
+            "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj": {
+              "projectPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattelShipBackEnd\\BattelShipBackEnd.csproj"
             },
-            "E:\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj"
+            "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj"
             }
           }
         }

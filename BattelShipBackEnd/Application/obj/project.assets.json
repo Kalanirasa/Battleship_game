@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj",
+      "projectPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\Battleship_game\\BattelShipBackEnd\\Application\\obj\\",
+      "outputPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj"
+            "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\Domain\\Domain.csproj"
             }
           }
         }

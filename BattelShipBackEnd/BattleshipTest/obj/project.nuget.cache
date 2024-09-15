@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b0dcvnBQ5t8=",
+  "dgSpecHash": "OicdVC5FDr0=",
   "success": true,
-  "projectFilePath": "E:\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
+  "projectFilePath": "E:\\Battleship_game\\Battleship_game\\BattelShipBackEnd\\BattleshipTest\\BattleshipTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

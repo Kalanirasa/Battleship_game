@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.game-board {
+  display: flex;
+  justify-content: space-around;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(10, 30px); /* 10 columns, adjust width as needed */
+  gap: 1px;
+}
+
+.grid-row {
+  display: contents; /* Use contents to align grid cells directly */
+}
+
+.grid-cell {
+  width: 30px; /* Adjust size */
+  height: 30px; /* Adjust size */
+  text-align: center;
+  line-height: 30px; /* Vertically center text */
+  cursor: pointer;
+  background-color: #f0f0f0; /* Background color */
+  border: 1px solid #ccc; /* Border color */
+}
+.ship-info {
+  margin-left: 20px;
+}
