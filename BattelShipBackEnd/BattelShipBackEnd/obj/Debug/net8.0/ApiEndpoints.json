@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BattelShipBackEnd.Controllers.BattleshipController",
+    "Method": "StartNewGame",
+    "RelativePath": "api/Battleship/start",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BattelShipBackEnd.Controllers.BattleshipController",
+    "Method": "TakeTurn",
+    "RelativePath": "api/Battleship/turn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Domain.Entities.MoveRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
