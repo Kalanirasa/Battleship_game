@@ -40,13 +40,23 @@ Data Flow:
 Start New Game:
 
 The frontend sends a POST request to /api/Battleship/start.
+![image](https://github.com/user-attachments/assets/c1673560-9448-4586-a58a-d0d0bab11a2c)
+
 The backend generates a new game board with ships for both players.
+![image](https://github.com/user-attachments/assets/0f211aac-c21c-4f75-9095-d242ad1714a8)
+
 The game state is returned to the frontend, which updates the UI.
+![image](https://github.com/user-attachments/assets/81437619-48f8-45a9-bf0e-db2ce41bfb93)
+
 Take Turn:
 
 The frontend sends a POST request to /api/Battleship/turn with the move details.
 The backend processes the move, updates the game state, and checks for game over conditions.
+![image](https://github.com/user-attachments/assets/dd1ada38-a5a2-433d-ba06-3c2954b6e053)
+
 The updated game state is returned to the frontend, which updates the UI.
+![image](https://github.com/user-attachments/assets/7f69e3dd-72f4-488c-ac14-fb51607e272e)
+
 3. Components and Interaction
 GameBoard Component:
 Initializes the game and manages game turns.
